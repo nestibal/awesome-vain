@@ -1,4 +1,5 @@
 require("vain.layout.termfair")
+require("vain.layout.centerfair")
 require("vain.layout.browse")
 require("vain.layout.cascadebrowse")
 require("vain.layout.uselessfair")
